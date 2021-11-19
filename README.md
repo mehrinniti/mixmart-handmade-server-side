@@ -4,7 +4,7 @@
 
 A handicraft, sometimes more precisely expressed as artisanal handicraft or handmade, is any of a wide variety of types of work where useful and decorative objects are made completely by one’s hand or by using only simple, non-automated related tools like scissors, carving implements, or hooks.
 
-<!-- [Visit our website](https://awesome-mayer-0d3c7a.netlify.app/) -->
+[Visit our website](https://mixmart-handmade-niti.netlify.app/)
 
 ## About the website -
 
